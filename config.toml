@@ -1,4 +1,4 @@
-theme = "hugo-xmin"
+theme = "anubis"
 baseURL = "https://å.xyz/"
 languageCode = "fi"
 title = "Å.xyz"
