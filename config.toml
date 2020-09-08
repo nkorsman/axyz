@@ -1,0 +1,9 @@
+theme = "hugo-xmin"
+baseURL = "https://å.xyz/"
+languageCode = "fi"
+title = "Å.xyz"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
